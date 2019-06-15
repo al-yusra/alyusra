@@ -100,7 +100,7 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px;list-style-type: n
 .bg-very-light-gray {background-color: #f8f8f8 }
 .bg-yellow {background-color: #ffb426;}
 .bg-new-yellow {background-color: #e3de00;}
-.bg-blue {background-color: #17acc6;}
+.bg-blue {background-color: #5f6dca;}
 .bg-lg-blue {background-color: #00e4ce;}
 .bg-green {background-color: #82b440;}
 .bg-red{background-color:#CB342B;}
@@ -157,10 +157,10 @@ section.half-section {padding:80px 0;}
 .btn.btn-black:hover, .btn.btn-black:focus {background: transparent; color: #000}
 .btn.btn-yellow {background: #ffb426 !important; border-color: #efaa26 !important; color: #fff !important;}
 .btn.btn-yellow:hover, .btn.btn-yellow:focus {background: transparent !important; border-color: #ffb426 !important; color: #ffb426 !important;}
-.btn.btn-blue {background: #17acc6 !important; border-color: #17acc6 !important; color: #fff !important;}
-.btn.btn-blue:hover, .btn.btn-blue:focus {background: transparent !important; border-color: #17acc6 !important; color: #17acc6 !important;}
-.btn.btn-light-blue {background: #5f6dca !important; border-color: #17acc6 !important; color: #fff !important;}
-.btn.btn-light-blue:hover, .btn.btn-light-blue:focus {background: transparent !important; border-color: #17acc6 !important; color: #17acc6 !important;}
+.btn.btn-blue {background: #5f6dca !important; border-color: #5f6dca !important; color: #fff !important;}
+.btn.btn-blue:hover, .btn.btn-blue:focus {background: transparent !important; border-color: #5f6dca !important; color: #5f6dca !important;}
+.btn.btn-light-blue {background: #5f6dca !important; border-color: #5f6dca !important; color: #fff !important;}
+.btn.btn-light-blue:hover, .btn.btn-light-blue:focus {background: transparent !important; border-color: #5f6dca !important; color: #5f6dca !important;}
 .btn.btn-dark-blue {background: #012c57 !important; border-color: #5f6dca !important; color: #fff !important;}
 .btn.btn-dark-blue:hover, .btn.btn-dark-blue:focus {background: transparent !important; border-color: #012c57 !important; color: #012c57 !important;}
 .btn.btn-green {background: #82b440 !important; border-color: #82b440 !important; color: #fff !important;}
@@ -182,8 +182,8 @@ section.half-section {padding:80px 0;}
 .btn.btn-transparent-light-gray:hover, .btn.btn-transparent-light-gray:focus {background: #dbdbdb; border-color: #dbdbdb; color: #232323}
 .btn.btn-transparent-yellow {background: transparent; border-color: #ffb426; color: #ffb426}
 .btn.btn-transparent-yellow:hover{background: #ffb426; border-color: #ffb426 !important; color:#fff !important;}
-.btn.btn-transparent-blue {background: transparent; border-color: #17acc6; color: #17acc6;}
-.btn.btn-transparent-blue:hover{background: #17acc6; border-color: #17acc6 !important; color:#fff !important;}
+.btn.btn-transparent-blue {background: transparent; border-color: #5f6dca; color: #5f6dca;}
+.btn.btn-transparent-blue:hover{background: #5f6dca; border-color: #5f6dca !important; color:#fff !important;}
 .btn.btn-transparent-dark-blue {background: transparent; border-color: #012c57; color: #012c57;}
 .btn.btn-transparent-dark-blue:hover{background: #012c57; border-color: #012c57 !important; color:#fff !important;}
 .btn.btn-transparent-green {background: transparent; border-color: #82b440; color: #82b440;}
@@ -681,7 +681,7 @@ section.half-section {padding:80px 0;}
     Magnific popup
 ====================================== */
 
-.mfp-bg {background: #17acc6; opacity: 0.93;}
+.mfp-bg {background: #5f6dca; opacity: 0.93;}
 .mfp-bg, .mfp-wrap {z-index: 10007}
 #popup-form {cursor:default;}
 .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close {color:#fff; background: transparent}
@@ -739,26 +739,26 @@ header .left-nav .sidebar-part1 a.logo img {max-height:inherit;}
 .logo-holder img {max-height: 26px;}
 
 /* navigation */
-header nav.navbar .navbar-nav > li > a:hover, nav.navbar.bootsnav ul.nav > li > a:hover, .header-search-form:hover{color: rgb(23, 172, 198); background: transparent !important;
+header nav.navbar .navbar-nav > li > a:hover, nav.navbar.bootsnav ul.nav > li > a:hover, .header-search-form:hover{color: rgb(95,109,202); background: transparent !important;
 }
 header.sticky nav.navbar.header-dark.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar.bootsnav.header-dark.white-link ul.nav > li > a:hover, header.sticky nav.header-dark .header-social-icon a:hover { color: rgba(255,255,255,0.6);}
 
-header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li.active > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li.active > a, header nav.navbar .navbar-nav > li.active > a, nav.navbar.bootsnav ul.nav > li.active > a {color: #17ACC6; background: transparent !important;}
-header nav.navbar.white-link .navbar-nav > li.active > a, nav.navbar.bootsnav.white-link ul.nav > li.active > a, header nav.navbar.bootsnav ul.nav.white-link > li.active > a, header.header-appear nav.header-dark-transparent .navbar-nav > li.active > a, header.header-appear nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark-transparent .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.header-dark-transparent.white-link .navbar-nav > li.active > a { color: rgb(23, 172, 198);background: transparent;}
+header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li.active > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li.active > a, header nav.navbar .navbar-nav > li.active > a, nav.navbar.bootsnav ul.nav > li.active > a {color: #5f6dca; background: transparent !important;}
+header nav.navbar.white-link .navbar-nav > li.active > a, nav.navbar.bootsnav.white-link ul.nav > li.active > a, header nav.navbar.bootsnav ul.nav.white-link > li.active > a, header.header-appear nav.header-dark-transparent .navbar-nav > li.active > a, header.header-appear nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark-transparent .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.header-dark-transparent.white-link .navbar-nav > li.active > a { color: rgb(95,109,202);background: transparent;}
 header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li.active > a, header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li.active > a {color: rgba(0,0,0,0.6)}
-header.sticky nav.navbar.white-link .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.white-link ul.nav > li.active > a { color: rgb(23, 172, 198);background: transparent;}
+header.sticky nav.navbar.white-link .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.white-link ul.nav > li.active > a { color: rgb(95,109,202);background: transparent;}
 header.sticky nav.navbar.header-dark.white-link .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.header-dark.white-link ul.nav > li.active > a { color: rgba(255,255,255,0.6);}
 
-header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li > a.active, header.header-appear nav.bootsnav.header-light .navbar-nav > li > a.active, header nav.navbar .navbar-nav > li > a.active, nav.navbar.bootsnav ul.nav > li > a.active {color:#17ACC6;
+header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li > a.active, header.header-appear nav.bootsnav.header-light .navbar-nav > li > a.active, header nav.navbar .navbar-nav > li > a.active, nav.navbar.bootsnav ul.nav > li > a.active {color:#5f6dca;
 }
-header nav.navbar.white-link .navbar-nav > li > a.active, nav.navbar.bootsnav.white-link ul.nav > li > a.active, header nav.navbar.bootsnav ul.nav.white-link > li > a.active, header.header-appear nav.header-dark-transparent .navbar-nav > li > a.active, header.header-appear nav.header-dark .navbar-nav > li > a.active, header.sticky nav.header-dark .navbar-nav > li > a.active, header.sticky nav.header-dark-transparent .navbar-nav > li > a.active { color: rgb(23, 172, 198)
+header nav.navbar.white-link .navbar-nav > li > a.active, nav.navbar.bootsnav.white-link ul.nav > li > a.active, header nav.navbar.bootsnav ul.nav.white-link > li > a.active, header.header-appear nav.header-dark-transparent .navbar-nav > li > a.active, header.header-appear nav.header-dark .navbar-nav > li > a.active, header.sticky nav.header-dark .navbar-nav > li > a.active, header.sticky nav.header-dark-transparent .navbar-nav > li > a.active { color: rgb(95,109,202)
 }
 header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a.active, header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a.active {color: rgba(0,0,0,0.6)}
 
-header.sticky nav.navbar.white-link .navbar-nav > li > a.active, header.sticky nav.navbar.bootsnav.white-link ul.nav > li > a.active { color: rgb(23, 172, 198) !important;}
+header.sticky nav.navbar.white-link .navbar-nav > li > a.active, header.sticky nav.navbar.bootsnav.white-link ul.nav > li > a.active { color: rgb(95,109,202) !important;}
 header.sticky nav.navbar.header-dark.white-link .navbar-nav > li > a.active, header.sticky nav.navbar.bootsnav.header-dark.white-link ul.nav > li > a.active { color: rgba(255,255,255,0.6);}
 
-header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li.dropdown.on > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li.dropdown.on > a, header nav.navbar .navbar-nav > li.dropdown.on > a, nav.navbar.bootsnav ul.nav > li.dropdown.on > a {color: rgb(23, 172, 198)
+header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li.dropdown.on > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li.dropdown.on > a, header nav.navbar .navbar-nav > li.dropdown.on > a, nav.navbar.bootsnav ul.nav > li.dropdown.on > a {color: rgb(95,109,202)
 }
 header nav.navbar.white-link .navbar-nav > li.dropdown.on > a, nav.navbar.bootsnav.white-link ul.nav > li.dropdown.on > a, header nav.navbar.bootsnav ul.nav.white-link > li.dropdown.on > a, header.header-appear nav.header-dark-transparent .navbar-nav > li.dropdown.on > a, header.header-appear nav.header-dark .navbar-nav > li.dropdown.on > a, header.sticky nav.header-dark .navbar-nav > li.dropdown.on > a, header.sticky nav.header-dark-transparent .navbar-nav > li.dropdown.on > a { color: rgba(255,255,255,0.6)}
 header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li.dropdown.on > a, header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li.dropdown.on > a {color: rgba(0,0,0,0.6)}
@@ -1426,9 +1426,9 @@ nav.navbar ul.nav .dropdown-menu.second-level .dropdown-menu {margin-top: 0 }
     nav.navbar.bootsnav .simple-dropdown .dropdown-menu > li.dropdown > ul:before {display: none;}
     nav.navbar.bootsnav ul.navbar-nav.navbar-left > li:last-child > ul.dropdown-menu { border: 0;}
     header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li > a:hover, header.header-appear nav.bootsnav.header-light .navbar-nav > li > a:hover, header.header-appear nav.header-light-transparent .header-social-icon a:hover, header.header-appear nav.header-light .header-social-icon a:hover, header.header-appear nav.header-light.white-link .header-social-icon a:hover, header.header-appear nav.header-light-transparent.white-link .header-social-icon a:hover, header.header-appear nav.header-light-transparent.white-link .heder-menu-button a:hover, header.header-appear nav.header-light-transparent.white-link .header-searchbar a:hover, header nav.navbar .navbar-nav > li > a:hover, nav.navbar.bootsnav ul.nav > li > a:hover,header.sticky nav.navbar.white-link .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.white-link ul.nav > li.active > a {color: rgba(255,255,255,0.6)}
-    header nav.navbar.white-link .navbar-nav > li > a:hover, nav.navbar.bootsnav.white-link ul.nav > li > a:hover, header nav.navbar.white-link .header-social-icon a:hover, nav.navbar.bootsnav.white-link .header-social-icon a:hover, header nav.navbar.white-link .header-searchbar a:hover, nav.navbar.bootsnav.white-link .header-searchbar a:hover, header nav.navbar.bootsnav ul.nav.white-link > li > a:hover, header.header-appear nav.header-dark-transparent .navbar-nav > li > a:hover, header.header-appear nav.header-dark .navbar-nav > li > a:hover, header.sticky nav.header-dark .navbar-nav > li > a:hover, header.sticky nav.header-dark-transparent .navbar-nav > li > a:hover, header.header-appear nav.header-dark-transparent .search-button:hover, header.header-appear nav.header-dark .search-button:hover, header.sticky nav.header-dark .search-button:hover, header.sticky nav.header-dark-transparent .search-button:hover { color: rgb(23, 172, 198)
+    header nav.navbar.white-link .navbar-nav > li > a:hover, nav.navbar.bootsnav.white-link ul.nav > li > a:hover, header nav.navbar.white-link .header-social-icon a:hover, nav.navbar.bootsnav.white-link .header-social-icon a:hover, header nav.navbar.white-link .header-searchbar a:hover, nav.navbar.bootsnav.white-link .header-searchbar a:hover, header nav.navbar.bootsnav ul.nav.white-link > li > a:hover, header.header-appear nav.header-dark-transparent .navbar-nav > li > a:hover, header.header-appear nav.header-dark .navbar-nav > li > a:hover, header.sticky nav.header-dark .navbar-nav > li > a:hover, header.sticky nav.header-dark-transparent .navbar-nav > li > a:hover, header.header-appear nav.header-dark-transparent .search-button:hover, header.header-appear nav.header-dark .search-button:hover, header.sticky nav.header-dark .search-button:hover, header.sticky nav.header-dark-transparent .search-button:hover { color: rgb(95,109,202)
     }
-    header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .header-searchbar a:hover, header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .header-social-icon a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-searchbar a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-social-icon a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-menu-button a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-menu-button a:hover {color: rgb(23, 172, 198)
+    header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .header-searchbar a:hover, header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .header-social-icon a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-searchbar a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-social-icon a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-menu-button a:hover, header.sticky nav.navbar-fixed-top.header-light.white-link .header-menu-button a:hover {color: rgb(95,109,202)
     }
     header.sticky nav.navbar.header-dark.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar.bootsnav.header-dark.white-link ul.nav > li > a:hover, header.sticky nav.header-dark .header-social-icon a:hover { color: rgba(255,255,255,0.6);}
     nav.navbar.bootsnav li.dropdown .mega-menu-full > ul li.dropdown-header { width: 100%; padding-top: 8px; padding-bottom: 8px; border-bottom: 1px solid rgba(255, 255, 255, 0.06);}
