@@ -245,11 +245,11 @@ html, body, .perspective {
 
 .icon-home::before { content: "\f015" }
 .icon-features::before { content: "\f013" }
-.icon-about::before { content: "\f007" }
+.icon-about::before { content: "\f03a" }
 .icon-work::before { content: "\f164" }
 .icon-pricing::before { content: "\f02c" }
 .icon-blog::before { content: "\f02e" }
-.icon-contact::before { content: "\f06a" }
+.icon-contact::before { content: "\f0e0" }
 
 /* Individual Effects */
 
