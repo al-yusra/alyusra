@@ -1,4 +1,4 @@
-/* ==================================================
+#114a79/* ==================================================
     warning do not change in bundle.css use custom.css
 ===================================================== */
 
@@ -49,9 +49,9 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px;list-style-type: n
 .text-green {color:#82b440;}
 .text-red {color: rgb(203, 52, 43)}
 .text-blue {color: rgb(0, 171, 201)}
-.text-dark-blue{color: #012c57
+.text-dark-blue{color: #114a79
 }
-.text-light-blue{color: #5f6dca
+.text-light-blue{color: #114a79
 }
 .text-orange{color: #ec6d48}
 
@@ -100,7 +100,7 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px;list-style-type: n
 .bg-very-light-gray {background-color: #f8f8f8 }
 .bg-yellow {background-color: #ffb426;}
 .bg-new-yellow {background-color: #e3de00;}
-.bg-blue {background-color: #5f6dca;}
+.bg-blue {background-color: #114a79;}
 .bg-lg-blue {background-color: #00e4ce;}
 .bg-green {background-color: #82b440;}
 .bg-red{background-color:#CB342B;}
@@ -159,8 +159,8 @@ section.half-section {padding:80px 0;}
 .btn.btn-yellow:hover, .btn.btn-yellow:focus {background: transparent !important; border-color: #ffb426 !important; color: #ffb426 !important;}
 .btn.btn-blue {background: #5f6dca !important; border-color: #5f6dca !important; color: #fff !important;}
 .btn.btn-blue:hover, .btn.btn-blue:focus {background: transparent !important; border-color: #5f6dca !important; color: #5f6dca !important;}
-.btn.btn-light-blue {background: #5f6dca !important; border-color: #5f6dca !important; color: #fff !important;}
-.btn.btn-light-blue:hover, .btn.btn-light-blue:focus {background: transparent !important; border-color: #5f6dca !important; color: #5f6dca !important;}
+.btn.btn-light-blue {background: #114a79 !important; border-color: #114a79 !important; color: #fff !important;}
+.btn.btn-light-blue:hover, .btn.btn-light-blue:focus {background: transparent !important; border-color: #114a79 !important; color: #114a79 !important;}
 .btn.btn-dark-blue {background: #012c57 !important; border-color: #5f6dca !important; color: #fff !important;}
 .btn.btn-dark-blue:hover, .btn.btn-dark-blue:focus {background: transparent !important; border-color: #012c57 !important; color: #012c57 !important;}
 .btn.btn-green {background: #82b440 !important; border-color: #82b440 !important; color: #fff !important;}
@@ -744,7 +744,7 @@ header nav.navbar .navbar-nav > li > a:hover, nav.navbar.bootsnav ul.nav > li > 
 header.sticky nav.navbar.header-dark.white-link .navbar-nav > li > a:hover, header.sticky nav.navbar.bootsnav.header-dark.white-link ul.nav > li > a:hover, header.sticky nav.header-dark .header-social-icon a:hover { color: rgba(255,255,255,0.6);}
 
 header.header-appear nav.bootsnav.header-light-transparent .navbar-nav > li.active > a, header.header-appear nav.bootsnav.header-light .navbar-nav > li.active > a, header nav.navbar .navbar-nav > li.active > a, nav.navbar.bootsnav ul.nav > li.active > a {color: #5f6dca; background: transparent !important;}
-header nav.navbar.white-link .navbar-nav > li.active > a, nav.navbar.bootsnav.white-link ul.nav > li.active > a, header nav.navbar.bootsnav ul.nav.white-link > li.active > a, header.header-appear nav.header-dark-transparent .navbar-nav > li.active > a, header.header-appear nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark-transparent .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.header-dark-transparent.white-link .navbar-nav > li.active > a { color: rgb(95,109,202);background: transparent;}
+header nav.navbar.white-link .navbar-nav > li.active > a, nav.navbar.bootsnav.white-link ul.nav > li.active > a, header nav.navbar.bootsnav ul.nav.white-link > li.active > a, header.header-appear nav.header-dark-transparent .navbar-nav > li.active > a, header.header-appear nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark .navbar-nav > li.active > a, header.sticky nav.header-dark-transparent .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.header-dark-transparent.white-link .navbar-nav > li.active > a { color: rgb(17, 74, 121);background: transparent;}
 header.sticky nav.navbar-fixed-top.header-light-transparent.white-link .navbar-nav > li.active > a, header.sticky nav.navbar-fixed-top.header-light.white-link .navbar-nav > li.active > a {color: rgba(0,0,0,0.6)}
 header.sticky nav.navbar.white-link .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.white-link ul.nav > li.active > a { color: rgb(95,109,202);background: transparent;}
 header.sticky nav.navbar.header-dark.white-link .navbar-nav > li.active > a, header.sticky nav.navbar.bootsnav.header-dark.white-link ul.nav > li.active > a { color: rgba(255,255,255,0.6);}
